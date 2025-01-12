@@ -1,0 +1,7 @@
+output
+
+Sorted array is:
+1
+2
+10
+23
